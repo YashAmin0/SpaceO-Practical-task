@@ -51,14 +51,17 @@ The AI assistant follows a structured conversation flow:
 Initialization:
 
 The assistant greets the patient and asks how it can assist.
+
 Booking Process:
 
 If a patient wants to book an appointment, the assistant asks for the preferred date and time.
 Upon receiving the details, it attempts to book the slot.
 If successful, it confirms the booking. If the slot is taken, it requests an alternative time.
+
 Handling Multiple Appointments:
 
 The patient can book multiple appointments in one session.
+
 Ending the Conversation:
 
 The conversation can be ended by the user at any time using keywords like "bye," "exit," or "quit."
