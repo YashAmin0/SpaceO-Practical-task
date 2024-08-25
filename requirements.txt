@@ -1,0 +1,4 @@
+langchain==0.2.1
+langchain-huggingface==0.0.3
+torch==2.2.*
+transformers==4.41.0
