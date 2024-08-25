@@ -15,8 +15,8 @@ This project is an AI assistant for a dental clinic, designed to help patients b
 Clone this repository to your local machine using the following command:
 
 ```
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone [<your-repo-url>](https://github.com/YashAmin0/SpaceO-Practical-task.git)
+cd SpaceO-Practical-task
 ```
 
 ### 2. Create and Activate a Virtual Environment
